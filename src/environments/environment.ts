@@ -7,5 +7,5 @@ export const environment = {
     XRapidAPIHostHeaderValue:'ai-weather-by-meteosource.p.rapidapi.com',
 
     XRapidAPIKeyHeaderName: 'X-RapidAPI-Key',
-    XRapidAPIKeyHeaderValue: '913e57de3dmsh90022ec7950ea41p18b12fjsne4d11d08ab13'
+    XRapidAPIKeyHeaderValue: 'your api key goes here'
 }
